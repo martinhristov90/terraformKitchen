@@ -11,7 +11,7 @@
 
 ## How to setup KitchenCI and RBENV (MacOS Mojave 10.14.5) :
 
-# Setup KitchenCI:
+## Setup KitchenCI:
 
 - For using [KitchenCI](https://kitchen.ci/), ruby environment needs to be set up first.
 - In a directory of your choice, clone the github repository :
