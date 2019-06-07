@@ -1,0 +1,6 @@
+testing.tfvars
+.terraform
+terraform*
+Gemfile.lock
+.ruby-version
+.kitchen
